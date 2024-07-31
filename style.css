@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.dados {
+    text-align: center;
+    background-color: rgb(240, 255, 188);
+    color: black;
+}
+
+.dados h4 {
+    display: inline;
+    padding-right: 10px;
+}
+
+/* formatar a imagem com cantos arredondados */
+.perfil {
+    border-radius: 60%;
+    width: 160px;
+
+}
+
+/* formatar titulo com ID */
+#cv {
+    font-family: "Montserrat", sans-serif;
+    color: blue;
+    font-size: 40px;
+}
+
+/* formatando logo paris */
+.logoparis {
+    width: 100px;
+    height: 150px;
+    margin-right: 50px;
+    /* colocando borda na imagem */
+    border: 9px solid red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* outra pagina */
+.titulo {
+    background-color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    text-align: center;
+}
+.box{
+    width: 900;
+    height:auto
+    display: inline-block;
+     margin: 0%;
+     
+
+
+
+}
+img {
+    border: 8px solid black;
+}
